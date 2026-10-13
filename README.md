@@ -9,6 +9,12 @@ Mit jedem Level wirst du fetter – bis du auf Level 10 so groß bist wie die ga
 (three.js) aus dem Internet geladen, danach läuft alles lokal im Browser. Der Spielstand wird
 automatisch im Browser gespeichert.
 
+Die Grafik ist auf realistisch getrimmt: physikalisch korrektes Licht mit echtem Himmel und
+Sonnenstand, spiegelnde Glasfassaden, weiche Schatten, Fototexturen (Asphalt, Gehwegplatten,
+Rasen, Backstein, Dachziegel) und eine menschliche Spielfigur, deren Bauch mit jedem Level
+wächst. Alle Texturen werden beim Start im Browser erzeugt – es gibt keine Bilddateien.
+Am flüssigsten läuft es auf einem Rechner mit Grafikkarte in Chrome, Edge oder Firefox.
+
 ## Regeln
 
 | Essen          | Punkte | Hinweis                                    |
